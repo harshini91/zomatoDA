@@ -1,5 +1,4 @@
-![Screenshot 2025-06-25 110356](https://github.com/user-attachments/assets/8b333e4e-8fd8-4fde-b291-20612d0015de)
----
+
 
 ## ✅ Features Implemented
 
